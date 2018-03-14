@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,iBACC,gBACA,kBAAmB,CAGpB,QACC,kBAAmB","file":"static/css/main.97055e97.css","sourcesContent":[".list-group-item{\n\tpadding-top:4px;\n\tpadding-bottom:4px;\n}\n\n.navbar{\n\tmargin-bottom:16px;\n}\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
